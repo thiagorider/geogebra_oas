@@ -23,5 +23,7 @@ Site oficial Geogebra: https://www.geogebra.org/
 Site para formação de professores com Geogebra: http://ogeogebra.com.br/site/
 
 ## Aplicativos temática Pokémon no Geogebra
+
 Lançamento oblíquo: https://www.geogebra.org/m/E7csQe7r
+
 Coordenadas Cartesianas: https://www.geogebra.org/m/t87h8w8c
